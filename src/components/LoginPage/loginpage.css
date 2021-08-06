@@ -1,0 +1,79 @@
+.login-page {
+    background-color: #e99f22;
+    height: 100vh;
+}
+
+.login-page .logo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 42%;
+    top: 13%;
+
+    background: #c4c4c4;
+    border-radius: 1000px;
+}
+
+.opportunities {
+    position: absolute;
+    width: 607px;
+    height: 72px;
+    left: 30%;
+    top: 46%;
+
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 43px;
+    text-align: center;
+
+    color: #3d4148;
+}
+
+.palibot-helps {
+    position: absolute;
+    width: 918px;
+    height: 82px;
+    left: 20%;
+    top: 55%;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #3d4148;
+}
+
+.login {
+    position: absolute;
+    width: 337px;
+    height: 46px;
+    left: 39%;
+    top: 72%;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #3d4148;
+}
+
+.login-button {
+    position: absolute;
+    width: 200px;
+    height: 70px;
+    left: 43%;
+    top: 78%;
+
+    font-size: 20px;
+    color: white;
+    background: #2f3135;
+    border-radius: 300px;
+}
